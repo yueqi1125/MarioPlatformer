@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "53e8a634-00ba-466b-94aa-0454ddb4d047",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 128,
+  "height": 126,
+  "platformSettings": {},
+  "subMetas": {
+    "EnemyDeath_07": {
+      "ver": "1.0.4",
+      "uuid": "d8a62b86-d3ac-4182-96b6-cf846057157c",
+      "rawTextureUuid": "53e8a634-00ba-466b-94aa-0454ddb4d047",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -34,
+      "trimX": 10,
+      "trimY": 94,
+      "width": 109,
+      "height": 6,
+      "rawWidth": 128,
+      "rawHeight": 126,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

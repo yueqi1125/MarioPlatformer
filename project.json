@@ -1,0 +1,9 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "Mario_Platformer",
+  "uuid": "509c2749-030e-416a-bd4b-abbffd83bee3",
+  "version": "2.3.4",
+  "id": "47f9cc47-25d1-4ea3-89fa-469cbd85da5e",
+  "isNew": false
+}
